@@ -1,0 +1,60 @@
+/*
+selector
+p {
+    color: green;
+}
+
+*/
+#p1 {
+    background-color: yellow;
+}
+
+#p2 {
+    background-color: aquamarine;
+}
+
+#p3 {
+    background-color: orange;
+}
+
+#p4 {
+    background-color: teal;
+}
+
+.pclass {
+    background-color: violet;
+}
+
+#text-align {
+    text-align: center; /* left,center,right */
+    border: 2px dashed orange;
+}
+
+#top {
+    border-top: 2px solid rgb(62, 211, 17);
+}
+
+#right {
+    border-right: 2px solid orange;
+}
+
+#bottom {
+    border-bottom: 2px solid rgb(22, 152, 175);
+}
+
+#left {
+    border-left: 2px solid rgb(121, 14, 103);
+}
+
+#radius {
+    border: 4px solid teal;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#a1 {
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    float: right;
+}
